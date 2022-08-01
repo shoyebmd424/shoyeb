@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shoyeb/static/css/main.fc2feb59.css",
-    "main.js": "/shoyeb/static/js/main.406ce14e.js",
+    "main.js": "/shoyeb/static/js/main.be4025d9.js",
     "static/media/forum (1).mp4": "/shoyeb/static/media/forum (1).438a38daf2a0c9ac34ee.mp4",
     "static/media/EV_Site.mp4": "/shoyeb/static/media/EV_Site.d8d0bfb7e169e20d5384.mp4",
     "static/media/Gym-app.mp4": "/shoyeb/static/media/Gym-app.faadd69e5f79c33eb8e9.mp4",
@@ -11,10 +11,10 @@
     "static/media/java.png": "/shoyeb/static/media/java.f5dd86c3ef6ef3f85acf.png",
     "index.html": "/shoyeb/index.html",
     "main.fc2feb59.css.map": "/shoyeb/static/css/main.fc2feb59.css.map",
-    "main.406ce14e.js.map": "/shoyeb/static/js/main.406ce14e.js.map"
+    "main.be4025d9.js.map": "/shoyeb/static/js/main.be4025d9.js.map"
   },
   "entrypoints": [
     "static/css/main.fc2feb59.css",
-    "static/js/main.406ce14e.js"
+    "static/js/main.be4025d9.js"
   ]
 }
