@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/shoyeb/static/css/main.556da61e.css",
-    "main.js": "/shoyeb/static/js/main.118a3c6e.js",
-    "static/media/forum (1).mp4": "/shoyeb/static/media/forum (1).438a38daf2a0c9ac34ee.mp4",
+    "main.css": "/shoyeb/static/css/main.60d5f012.css",
+    "main.js": "/shoyeb/static/js/main.c10988f9.js",
+    "static/media/Araqsa.mp4": "/shoyeb/static/media/Araqsa.b720b768013b824e5dc6.mp4",
+    "static/media/smartContact.mp4": "/shoyeb/static/media/smartContact.90649a53bbae289d1eea.mp4",
     "static/media/EV_Site.mp4": "/shoyeb/static/media/EV_Site.d8d0bfb7e169e20d5384.mp4",
     "static/media/Gym-app.mp4": "/shoyeb/static/media/Gym-app.faadd69e5f79c33eb8e9.mp4",
-    "static/media/profile.png": "/shoyeb/static/media/profile.9702333ed9dd53200f9e.png",
+    "static/media/profile.png": "/shoyeb/static/media/profile.4219f25bc6f9fa5d1830.png",
     "static/media/logos-removebg-preview.png": "/shoyeb/static/media/logos-removebg-preview.2878fb6bf5cfd441c9bf.png",
     "static/media/mysql.png": "/shoyeb/static/media/mysql.4610cbabbff468ff8ae3.png",
     "static/media/java.png": "/shoyeb/static/media/java.f5dd86c3ef6ef3f85acf.png",
     "index.html": "/shoyeb/index.html",
-    "main.556da61e.css.map": "/shoyeb/static/css/main.556da61e.css.map",
-    "main.118a3c6e.js.map": "/shoyeb/static/js/main.118a3c6e.js.map"
+    "main.60d5f012.css.map": "/shoyeb/static/css/main.60d5f012.css.map",
+    "main.c10988f9.js.map": "/shoyeb/static/js/main.c10988f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.556da61e.css",
-    "static/js/main.118a3c6e.js"
+    "static/css/main.60d5f012.css",
+    "static/js/main.c10988f9.js"
   ]
 }
