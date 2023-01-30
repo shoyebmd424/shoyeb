@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shoyeb/static/css/main.60d5f012.css",
-    "main.js": "/shoyeb/static/js/main.c10988f9.js",
+    "main.js": "/shoyeb/static/js/main.eb6d22e7.js",
     "static/media/Araqsa.mp4": "/shoyeb/static/media/Araqsa.b720b768013b824e5dc6.mp4",
     "static/media/smartContact.mp4": "/shoyeb/static/media/smartContact.90649a53bbae289d1eea.mp4",
     "static/media/EV_Site.mp4": "/shoyeb/static/media/EV_Site.d8d0bfb7e169e20d5384.mp4",
@@ -12,10 +12,10 @@
     "static/media/java.png": "/shoyeb/static/media/java.f5dd86c3ef6ef3f85acf.png",
     "index.html": "/shoyeb/index.html",
     "main.60d5f012.css.map": "/shoyeb/static/css/main.60d5f012.css.map",
-    "main.c10988f9.js.map": "/shoyeb/static/js/main.c10988f9.js.map"
+    "main.eb6d22e7.js.map": "/shoyeb/static/js/main.eb6d22e7.js.map"
   },
   "entrypoints": [
     "static/css/main.60d5f012.css",
-    "static/js/main.c10988f9.js"
+    "static/js/main.eb6d22e7.js"
   ]
 }
